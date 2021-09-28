@@ -1,4 +1,4 @@
-# Comsc230-Assignment4-Create Node JS Server that serves a webpage
+# Comsc230-Assignment4-Create a Node JS Server that serves a webpage
 # Kyle Hadfield
 
 my-nodejs-service
